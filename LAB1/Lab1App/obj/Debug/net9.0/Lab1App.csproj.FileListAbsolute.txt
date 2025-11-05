@@ -1,0 +1,14 @@
+C:\Users\GreyCat\OneDrive\Desktop\KAI\OOP_KAI_2_course\LAB1\Lab1App\bin\Debug\net9.0\Lab1App.exe
+C:\Users\GreyCat\OneDrive\Desktop\KAI\OOP_KAI_2_course\LAB1\Lab1App\bin\Debug\net9.0\Lab1App.deps.json
+C:\Users\GreyCat\OneDrive\Desktop\KAI\OOP_KAI_2_course\LAB1\Lab1App\bin\Debug\net9.0\Lab1App.runtimeconfig.json
+C:\Users\GreyCat\OneDrive\Desktop\KAI\OOP_KAI_2_course\LAB1\Lab1App\bin\Debug\net9.0\Lab1App.dll
+C:\Users\GreyCat\OneDrive\Desktop\KAI\OOP_KAI_2_course\LAB1\Lab1App\bin\Debug\net9.0\Lab1App.pdb
+C:\Users\GreyCat\OneDrive\Desktop\KAI\OOP_KAI_2_course\LAB1\Lab1App\obj\Debug\net9.0\Lab1App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GreyCat\OneDrive\Desktop\KAI\OOP_KAI_2_course\LAB1\Lab1App\obj\Debug\net9.0\Lab1App.AssemblyInfoInputs.cache
+C:\Users\GreyCat\OneDrive\Desktop\KAI\OOP_KAI_2_course\LAB1\Lab1App\obj\Debug\net9.0\Lab1App.AssemblyInfo.cs
+C:\Users\GreyCat\OneDrive\Desktop\KAI\OOP_KAI_2_course\LAB1\Lab1App\obj\Debug\net9.0\Lab1App.csproj.CoreCompileInputs.cache
+C:\Users\GreyCat\OneDrive\Desktop\KAI\OOP_KAI_2_course\LAB1\Lab1App\obj\Debug\net9.0\Lab1App.dll
+C:\Users\GreyCat\OneDrive\Desktop\KAI\OOP_KAI_2_course\LAB1\Lab1App\obj\Debug\net9.0\refint\Lab1App.dll
+C:\Users\GreyCat\OneDrive\Desktop\KAI\OOP_KAI_2_course\LAB1\Lab1App\obj\Debug\net9.0\Lab1App.pdb
+C:\Users\GreyCat\OneDrive\Desktop\KAI\OOP_KAI_2_course\LAB1\Lab1App\obj\Debug\net9.0\Lab1App.genruntimeconfig.cache
+C:\Users\GreyCat\OneDrive\Desktop\KAI\OOP_KAI_2_course\LAB1\Lab1App\obj\Debug\net9.0\ref\Lab1App.dll

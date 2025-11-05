@@ -1,0 +1,44 @@
+Student РОботяга"
+{
+  "firstname": "SDfy"",
+  "lastname": "РОботяга"",
+  "course": "1"",
+  "studentId": "КА123456"",
+  "passport": "ОО123456"",
+  "city": "Вінниця",
+  "canDance": "False"
+};
+Student Клоп"
+{
+  "firstname": "Ваня"",
+  "lastname": "Клоп"",
+  "course": "1"",
+  "studentId": "КП123456"",
+  "passport": "КК123456"",
+  "city": "",
+  "canDance": "False"
+};
+Student Чіпса
+{
+  "firstname": "Артьом",
+  "lastname": "Чіпса",
+  "course": "1",
+  "studentId": "КВ987654",
+  "passport": "ББ148842",
+  "city": "",
+  "canDance": "True"
+};
+TaxiDriver Петрощур"
+{
+  "firstname": "Григорій"",
+  "lastname": "Петрощур"",
+  "license": "145466",
+  "canDance": "False"
+};
+Acrobat Акробат"
+{
+  "firstname": "Василь"",
+  "lastname": "Акробат"",
+  "performerId": "99222",
+  "canDance": "False"
+};
