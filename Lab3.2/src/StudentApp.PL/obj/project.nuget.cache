@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FWDBLxLyJJE=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\GreyCat\\OneDrive\\Desktop\\KAI\\OOP_KAI_2_course\\LAB3\\Lab3.2\\src\\StudentApp.PL\\StudentApp.PL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\GreyCat\\.nuget\\packages\\system.text.json\\9.0.10\\system.text.json.9.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}

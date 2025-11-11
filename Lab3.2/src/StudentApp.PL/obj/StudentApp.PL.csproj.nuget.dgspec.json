@@ -1,0 +1,265 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\GreyCat\\OneDrive\\Desktop\\KAI\\OOP_KAI_2_course\\LAB3\\Lab3.2\\src\\StudentApp.PL\\StudentApp.PL.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\GreyCat\\OneDrive\\Desktop\\KAI\\OOP_KAI_2_course\\LAB3\\Lab3.2\\src\\StudentApp.BLL\\StudentApp.BLL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\GreyCat\\OneDrive\\Desktop\\KAI\\OOP_KAI_2_course\\LAB3\\Lab3.2\\src\\StudentApp.BLL\\StudentApp.BLL.csproj",
+        "projectName": "StudentApp.BLL",
+        "projectPath": "C:\\Users\\GreyCat\\OneDrive\\Desktop\\KAI\\OOP_KAI_2_course\\LAB3\\Lab3.2\\src\\StudentApp.BLL\\StudentApp.BLL.csproj",
+        "packagesPath": "C:\\Users\\GreyCat\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\GreyCat\\OneDrive\\Desktop\\KAI\\OOP_KAI_2_course\\LAB3\\Lab3.2\\src\\StudentApp.BLL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\GreyCat\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "C:\\Users\\GreyCat\\OneDrive\\Desktop\\KAI\\OOP_KAI_2_course\\LAB3\\Lab3.2\\src\\StudentApp.DAL\\StudentApp.DAL.csproj": {
+                "projectPath": "C:\\Users\\GreyCat\\OneDrive\\Desktop\\KAI\\OOP_KAI_2_course\\LAB3\\Lab3.2\\src\\StudentApp.DAL\\StudentApp.DAL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\GreyCat\\OneDrive\\Desktop\\KAI\\OOP_KAI_2_course\\LAB3\\Lab3.2\\src\\StudentApp.DAL\\StudentApp.DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\GreyCat\\OneDrive\\Desktop\\KAI\\OOP_KAI_2_course\\LAB3\\Lab3.2\\src\\StudentApp.DAL\\StudentApp.DAL.csproj",
+        "projectName": "StudentApp.DAL",
+        "projectPath": "C:\\Users\\GreyCat\\OneDrive\\Desktop\\KAI\\OOP_KAI_2_course\\LAB3\\Lab3.2\\src\\StudentApp.DAL\\StudentApp.DAL.csproj",
+        "packagesPath": "C:\\Users\\GreyCat\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\GreyCat\\OneDrive\\Desktop\\KAI\\OOP_KAI_2_course\\LAB3\\Lab3.2\\src\\StudentApp.DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\GreyCat\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "System.Text.Json": {
+              "target": "Package",
+              "version": "[9.0.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\GreyCat\\OneDrive\\Desktop\\KAI\\OOP_KAI_2_course\\LAB3\\Lab3.2\\src\\StudentApp.MenuLogic\\StudentApp.MenuLogic.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\GreyCat\\OneDrive\\Desktop\\KAI\\OOP_KAI_2_course\\LAB3\\Lab3.2\\src\\StudentApp.MenuLogic\\StudentApp.MenuLogic.csproj",
+        "projectName": "StudentApp.MenuLogic",
+        "projectPath": "C:\\Users\\GreyCat\\OneDrive\\Desktop\\KAI\\OOP_KAI_2_course\\LAB3\\Lab3.2\\src\\StudentApp.MenuLogic\\StudentApp.MenuLogic.csproj",
+        "packagesPath": "C:\\Users\\GreyCat\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\GreyCat\\OneDrive\\Desktop\\KAI\\OOP_KAI_2_course\\LAB3\\Lab3.2\\src\\StudentApp.MenuLogic\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\GreyCat\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "C:\\Users\\GreyCat\\OneDrive\\Desktop\\KAI\\OOP_KAI_2_course\\LAB3\\Lab3.2\\src\\StudentApp.BLL\\StudentApp.BLL.csproj": {
+                "projectPath": "C:\\Users\\GreyCat\\OneDrive\\Desktop\\KAI\\OOP_KAI_2_course\\LAB3\\Lab3.2\\src\\StudentApp.BLL\\StudentApp.BLL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\GreyCat\\OneDrive\\Desktop\\KAI\\OOP_KAI_2_course\\LAB3\\Lab3.2\\src\\StudentApp.PL\\StudentApp.PL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\GreyCat\\OneDrive\\Desktop\\KAI\\OOP_KAI_2_course\\LAB3\\Lab3.2\\src\\StudentApp.PL\\StudentApp.PL.csproj",
+        "projectName": "StudentApp.PL",
+        "projectPath": "C:\\Users\\GreyCat\\OneDrive\\Desktop\\KAI\\OOP_KAI_2_course\\LAB3\\Lab3.2\\src\\StudentApp.PL\\StudentApp.PL.csproj",
+        "packagesPath": "C:\\Users\\GreyCat\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\GreyCat\\OneDrive\\Desktop\\KAI\\OOP_KAI_2_course\\LAB3\\Lab3.2\\src\\StudentApp.PL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\GreyCat\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "C:\\Users\\GreyCat\\OneDrive\\Desktop\\KAI\\OOP_KAI_2_course\\LAB3\\Lab3.2\\src\\StudentApp.BLL\\StudentApp.BLL.csproj": {
+                "projectPath": "C:\\Users\\GreyCat\\OneDrive\\Desktop\\KAI\\OOP_KAI_2_course\\LAB3\\Lab3.2\\src\\StudentApp.BLL\\StudentApp.BLL.csproj"
+              },
+              "C:\\Users\\GreyCat\\OneDrive\\Desktop\\KAI\\OOP_KAI_2_course\\LAB3\\Lab3.2\\src\\StudentApp.MenuLogic\\StudentApp.MenuLogic.csproj": {
+                "projectPath": "C:\\Users\\GreyCat\\OneDrive\\Desktop\\KAI\\OOP_KAI_2_course\\LAB3\\Lab3.2\\src\\StudentApp.MenuLogic\\StudentApp.MenuLogic.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

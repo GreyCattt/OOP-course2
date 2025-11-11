@@ -1,0 +1,42 @@
+[
+  {
+    "LastName": "Ddfgh",
+    "FirstName": "Ivan",
+    "Course": 1,
+    "StudentCardId": "123456",
+    "CityOfArrival": "",
+    "PassportSeries": "234"
+  },
+  {
+    "LastName": "RF",
+    "FirstName": "RF",
+    "Course": 1,
+    "StudentCardId": "987654",
+    "CityOfArrival": "\u041A\u0438\u0457\u0432",
+    "PassportSeries": null
+  },
+  {
+    "LastName": "RF",
+    "FirstName": "RF",
+    "Course": 1,
+    "StudentCardId": "54353464",
+    "CityOfArrival": "\u041A\u0438\u0457\u0432",
+    "PassportSeries": null
+  },
+  {
+    "LastName": "rf",
+    "FirstName": "rf",
+    "Course": 1,
+    "StudentCardId": "fd245325",
+    "CityOfArrival": "test",
+    "PassportSeries": null
+  },
+  {
+    "LastName": "rf",
+    "FirstName": "rf",
+    "Course": 1,
+    "StudentCardId": "gfd2356",
+    "CityOfArrival": "test",
+    "PassportSeries": null
+  }
+]
