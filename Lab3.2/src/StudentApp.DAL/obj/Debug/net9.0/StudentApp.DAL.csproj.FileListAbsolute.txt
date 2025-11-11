@@ -1,0 +1,12 @@
+C:\Users\GreyCat\OneDrive\Desktop\KAI\OOP_KAI_2_course\LAB3\Lab3.2\src\StudentApp.DAL\bin\Debug\net9.0\StudentApp.DAL.deps.json
+C:\Users\GreyCat\OneDrive\Desktop\KAI\OOP_KAI_2_course\LAB3\Lab3.2\src\StudentApp.DAL\bin\Debug\net9.0\StudentApp.DAL.dll
+C:\Users\GreyCat\OneDrive\Desktop\KAI\OOP_KAI_2_course\LAB3\Lab3.2\src\StudentApp.DAL\bin\Debug\net9.0\StudentApp.DAL.pdb
+C:\Users\GreyCat\OneDrive\Desktop\KAI\OOP_KAI_2_course\LAB3\Lab3.2\src\StudentApp.DAL\obj\Debug\net9.0\StudentApp.DAL.csproj.AssemblyReference.cache
+C:\Users\GreyCat\OneDrive\Desktop\KAI\OOP_KAI_2_course\LAB3\Lab3.2\src\StudentApp.DAL\obj\Debug\net9.0\StudentApp.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GreyCat\OneDrive\Desktop\KAI\OOP_KAI_2_course\LAB3\Lab3.2\src\StudentApp.DAL\obj\Debug\net9.0\StudentApp.DAL.AssemblyInfoInputs.cache
+C:\Users\GreyCat\OneDrive\Desktop\KAI\OOP_KAI_2_course\LAB3\Lab3.2\src\StudentApp.DAL\obj\Debug\net9.0\StudentApp.DAL.AssemblyInfo.cs
+C:\Users\GreyCat\OneDrive\Desktop\KAI\OOP_KAI_2_course\LAB3\Lab3.2\src\StudentApp.DAL\obj\Debug\net9.0\StudentApp.DAL.csproj.CoreCompileInputs.cache
+C:\Users\GreyCat\OneDrive\Desktop\KAI\OOP_KAI_2_course\LAB3\Lab3.2\src\StudentApp.DAL\obj\Debug\net9.0\StudentApp.DAL.dll
+C:\Users\GreyCat\OneDrive\Desktop\KAI\OOP_KAI_2_course\LAB3\Lab3.2\src\StudentApp.DAL\obj\Debug\net9.0\refint\StudentApp.DAL.dll
+C:\Users\GreyCat\OneDrive\Desktop\KAI\OOP_KAI_2_course\LAB3\Lab3.2\src\StudentApp.DAL\obj\Debug\net9.0\StudentApp.DAL.pdb
+C:\Users\GreyCat\OneDrive\Desktop\KAI\OOP_KAI_2_course\LAB3\Lab3.2\src\StudentApp.DAL\obj\Debug\net9.0\ref\StudentApp.DAL.dll
