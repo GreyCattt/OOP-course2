@@ -1,0 +1,34 @@
+[
+  {
+    "SerialNumber": "978-0321765723",
+    "Title": "The C# Programming Language",
+    "PublicationYear": 2010,
+    "Price": 59.99,
+    "Copies": 100,
+    "TotalCost": 5999.00
+  },
+  {
+    "SerialNumber": "978-0132354181",
+    "Title": "Clean Code",
+    "PublicationYear": 2008,
+    "Price": 44.95,
+    "Copies": 250,
+    "TotalCost": 11237.50
+  },
+  {
+    "SerialNumber": "978-0201633610",
+    "Title": "Design Patterns",
+    "PublicationYear": 1994,
+    "Price": 54.99,
+    "Copies": 150,
+    "TotalCost": 8248.50
+  },
+  {
+    "SerialNumber": "978-0735619678",
+    "Title": "Code Complete 2",
+    "PublicationYear": 2004,
+    "Price": 49.99,
+    "Copies": 200,
+    "TotalCost": 9998.00
+  }
+]

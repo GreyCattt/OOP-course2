@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfBook xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Book>
+    <SerialNumber>978-0321765723</SerialNumber>
+    <Title>The C# Programming Language</Title>
+    <PublicationYear>2010</PublicationYear>
+    <Price>59.99</Price>
+    <Copies>100</Copies>
+  </Book>
+  <Book>
+    <SerialNumber>978-0132354181</SerialNumber>
+    <Title>Clean Code</Title>
+    <PublicationYear>2008</PublicationYear>
+    <Price>44.95</Price>
+    <Copies>250</Copies>
+  </Book>
+  <Book>
+    <SerialNumber>978-0201633610</SerialNumber>
+    <Title>Design Patterns</Title>
+    <PublicationYear>1994</PublicationYear>
+    <Price>54.99</Price>
+    <Copies>150</Copies>
+  </Book>
+  <Book>
+    <SerialNumber>978-0735619678</SerialNumber>
+    <Title>Code Complete 2</Title>
+    <PublicationYear>2004</PublicationYear>
+    <Price>49.99</Price>
+    <Copies>200</Copies>
+  </Book>
+</ArrayOfBook>
