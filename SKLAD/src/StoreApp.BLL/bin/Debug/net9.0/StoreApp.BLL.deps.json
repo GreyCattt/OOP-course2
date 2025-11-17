@@ -1,0 +1,55 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "StoreApp.BLL/1.0.0": {
+        "dependencies": {
+          "StoreApp.DAL": "1.0.0"
+        },
+        "runtime": {
+          "StoreApp.BLL.dll": {}
+        }
+      },
+      "StoreApp.Core/1.0.0": {
+        "runtime": {
+          "StoreApp.Core.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "StoreApp.DAL/1.0.0": {
+        "dependencies": {
+          "StoreApp.Core": "1.0.0"
+        },
+        "runtime": {
+          "StoreApp.DAL.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "StoreApp.BLL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "StoreApp.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "StoreApp.DAL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

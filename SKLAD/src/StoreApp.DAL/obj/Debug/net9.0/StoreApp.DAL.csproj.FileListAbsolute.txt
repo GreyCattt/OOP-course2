@@ -1,0 +1,15 @@
+C:\Users\GreyCat\OneDrive\Desktop\KAI\OOP_KAI_2_course\SKLAD\src\StoreApp.DAL\bin\Debug\net9.0\StoreApp.DAL.deps.json
+C:\Users\GreyCat\OneDrive\Desktop\KAI\OOP_KAI_2_course\SKLAD\src\StoreApp.DAL\bin\Debug\net9.0\StoreApp.DAL.dll
+C:\Users\GreyCat\OneDrive\Desktop\KAI\OOP_KAI_2_course\SKLAD\src\StoreApp.DAL\bin\Debug\net9.0\StoreApp.DAL.pdb
+C:\Users\GreyCat\OneDrive\Desktop\KAI\OOP_KAI_2_course\SKLAD\src\StoreApp.DAL\bin\Debug\net9.0\StoreApp.Core.dll
+C:\Users\GreyCat\OneDrive\Desktop\KAI\OOP_KAI_2_course\SKLAD\src\StoreApp.DAL\bin\Debug\net9.0\StoreApp.Core.pdb
+C:\Users\GreyCat\OneDrive\Desktop\KAI\OOP_KAI_2_course\SKLAD\src\StoreApp.DAL\obj\Debug\net9.0\StoreApp.DAL.csproj.AssemblyReference.cache
+C:\Users\GreyCat\OneDrive\Desktop\KAI\OOP_KAI_2_course\SKLAD\src\StoreApp.DAL\obj\Debug\net9.0\StoreApp.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GreyCat\OneDrive\Desktop\KAI\OOP_KAI_2_course\SKLAD\src\StoreApp.DAL\obj\Debug\net9.0\StoreApp.DAL.AssemblyInfoInputs.cache
+C:\Users\GreyCat\OneDrive\Desktop\KAI\OOP_KAI_2_course\SKLAD\src\StoreApp.DAL\obj\Debug\net9.0\StoreApp.DAL.AssemblyInfo.cs
+C:\Users\GreyCat\OneDrive\Desktop\KAI\OOP_KAI_2_course\SKLAD\src\StoreApp.DAL\obj\Debug\net9.0\StoreApp.DAL.csproj.CoreCompileInputs.cache
+C:\Users\GreyCat\OneDrive\Desktop\KAI\OOP_KAI_2_course\SKLAD\src\StoreApp.DAL\obj\Debug\net9.0\StoreApp.FB4A8D37.Up2Date
+C:\Users\GreyCat\OneDrive\Desktop\KAI\OOP_KAI_2_course\SKLAD\src\StoreApp.DAL\obj\Debug\net9.0\StoreApp.DAL.dll
+C:\Users\GreyCat\OneDrive\Desktop\KAI\OOP_KAI_2_course\SKLAD\src\StoreApp.DAL\obj\Debug\net9.0\refint\StoreApp.DAL.dll
+C:\Users\GreyCat\OneDrive\Desktop\KAI\OOP_KAI_2_course\SKLAD\src\StoreApp.DAL\obj\Debug\net9.0\StoreApp.DAL.pdb
+C:\Users\GreyCat\OneDrive\Desktop\KAI\OOP_KAI_2_course\SKLAD\src\StoreApp.DAL\obj\Debug\net9.0\ref\StoreApp.DAL.dll

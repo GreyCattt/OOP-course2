@@ -1,0 +1,53 @@
+{
+  "Categories": [
+    {
+      "Id": 1,
+      "Name": "cat1",
+      "Products": [
+        {
+          "Id": 101,
+          "Name": "t1",
+          "Brand": "br1",
+          "Price": 100,
+          "Quantity": 5
+        },
+        {
+          "Id": 102,
+          "Name": "t2",
+          "Brand": "br1",
+          "Price": 23456,
+          "Quantity": 345
+        },
+        {
+          "Id": 103,
+          "Name": "t3",
+          "Brand": "br2",
+          "Price": 500,
+          "Quantity": 5
+        }
+      ]
+    }
+  ],
+  "Suppliers": [
+    {
+      "Id": 1,
+      "CompanyName": "Mamainc",
+      "ContactFirstName": "Oleg",
+      "ContactLastName": "Baba",
+      "Phone": "0997775522"
+    }
+  ],
+  "Customers": [
+    {
+      "Id": 1,
+      "FirstName": "Ivan",
+      "LastName": "Rox",
+      "Email": "gnfmdos@gmail.com",
+      "Phone": "12345678"
+    }
+  ],
+  "NextCategoryId": 2,
+  "NextProductId": 104,
+  "NextSupplierId": 2,
+  "NextCustomerId": 2
+}
