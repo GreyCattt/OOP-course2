@@ -9,3 +9,15 @@ C:\Users\GreyCat\OneDrive\Desktop\KAI\OOP_KAI_2_course\SKLAD\src\StoreApp.Core\o
 C:\Users\GreyCat\OneDrive\Desktop\KAI\OOP_KAI_2_course\SKLAD\src\StoreApp.Core\obj\Debug\net9.0\refint\StoreApp.Core.dll
 C:\Users\GreyCat\OneDrive\Desktop\KAI\OOP_KAI_2_course\SKLAD\src\StoreApp.Core\obj\Debug\net9.0\StoreApp.Core.pdb
 C:\Users\GreyCat\OneDrive\Desktop\KAI\OOP_KAI_2_course\SKLAD\src\StoreApp.Core\obj\Debug\net9.0\ref\StoreApp.Core.dll
+C:\Users\GreyCat\OneDrive\Desktop\KAI\OOP_KAI_2_course\CourseProject\OOP-course2\SKLAD\src\StoreApp.Core\bin\Debug\net9.0\StoreApp.Core.deps.json
+C:\Users\GreyCat\OneDrive\Desktop\KAI\OOP_KAI_2_course\CourseProject\OOP-course2\SKLAD\src\StoreApp.Core\bin\Debug\net9.0\StoreApp.Core.dll
+C:\Users\GreyCat\OneDrive\Desktop\KAI\OOP_KAI_2_course\CourseProject\OOP-course2\SKLAD\src\StoreApp.Core\bin\Debug\net9.0\StoreApp.Core.pdb
+C:\Users\GreyCat\OneDrive\Desktop\KAI\OOP_KAI_2_course\CourseProject\OOP-course2\SKLAD\src\StoreApp.Core\obj\Debug\net9.0\StoreApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GreyCat\OneDrive\Desktop\KAI\OOP_KAI_2_course\CourseProject\OOP-course2\SKLAD\src\StoreApp.Core\obj\Debug\net9.0\StoreApp.Core.AssemblyInfoInputs.cache
+C:\Users\GreyCat\OneDrive\Desktop\KAI\OOP_KAI_2_course\CourseProject\OOP-course2\SKLAD\src\StoreApp.Core\obj\Debug\net9.0\StoreApp.Core.AssemblyInfo.cs
+C:\Users\GreyCat\OneDrive\Desktop\KAI\OOP_KAI_2_course\CourseProject\OOP-course2\SKLAD\src\StoreApp.Core\obj\Debug\net9.0\StoreApp.Core.csproj.CoreCompileInputs.cache
+C:\Users\GreyCat\OneDrive\Desktop\KAI\OOP_KAI_2_course\CourseProject\OOP-course2\SKLAD\src\StoreApp.Core\obj\Debug\net9.0\StoreApp.Core.sourcelink.json
+C:\Users\GreyCat\OneDrive\Desktop\KAI\OOP_KAI_2_course\CourseProject\OOP-course2\SKLAD\src\StoreApp.Core\obj\Debug\net9.0\StoreApp.Core.dll
+C:\Users\GreyCat\OneDrive\Desktop\KAI\OOP_KAI_2_course\CourseProject\OOP-course2\SKLAD\src\StoreApp.Core\obj\Debug\net9.0\refint\StoreApp.Core.dll
+C:\Users\GreyCat\OneDrive\Desktop\KAI\OOP_KAI_2_course\CourseProject\OOP-course2\SKLAD\src\StoreApp.Core\obj\Debug\net9.0\StoreApp.Core.pdb
+C:\Users\GreyCat\OneDrive\Desktop\KAI\OOP_KAI_2_course\CourseProject\OOP-course2\SKLAD\src\StoreApp.Core\obj\Debug\net9.0\ref\StoreApp.Core.dll

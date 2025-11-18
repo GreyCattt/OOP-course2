@@ -1,0 +1,15 @@
+C:\Users\GreyCat\OneDrive\Desktop\KAI\OOP_KAI_2_course\CourseProject\OOP-course2\LAB4\LabWork\bin\Debug\net9.0\LabWork.exe
+C:\Users\GreyCat\OneDrive\Desktop\KAI\OOP_KAI_2_course\CourseProject\OOP-course2\LAB4\LabWork\bin\Debug\net9.0\LabWork.deps.json
+C:\Users\GreyCat\OneDrive\Desktop\KAI\OOP_KAI_2_course\CourseProject\OOP-course2\LAB4\LabWork\bin\Debug\net9.0\LabWork.runtimeconfig.json
+C:\Users\GreyCat\OneDrive\Desktop\KAI\OOP_KAI_2_course\CourseProject\OOP-course2\LAB4\LabWork\bin\Debug\net9.0\LabWork.dll
+C:\Users\GreyCat\OneDrive\Desktop\KAI\OOP_KAI_2_course\CourseProject\OOP-course2\LAB4\LabWork\bin\Debug\net9.0\LabWork.pdb
+C:\Users\GreyCat\OneDrive\Desktop\KAI\OOP_KAI_2_course\CourseProject\OOP-course2\LAB4\LabWork\obj\Debug\net9.0\LabWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GreyCat\OneDrive\Desktop\KAI\OOP_KAI_2_course\CourseProject\OOP-course2\LAB4\LabWork\obj\Debug\net9.0\LabWork.AssemblyInfoInputs.cache
+C:\Users\GreyCat\OneDrive\Desktop\KAI\OOP_KAI_2_course\CourseProject\OOP-course2\LAB4\LabWork\obj\Debug\net9.0\LabWork.AssemblyInfo.cs
+C:\Users\GreyCat\OneDrive\Desktop\KAI\OOP_KAI_2_course\CourseProject\OOP-course2\LAB4\LabWork\obj\Debug\net9.0\LabWork.csproj.CoreCompileInputs.cache
+C:\Users\GreyCat\OneDrive\Desktop\KAI\OOP_KAI_2_course\CourseProject\OOP-course2\LAB4\LabWork\obj\Debug\net9.0\LabWork.sourcelink.json
+C:\Users\GreyCat\OneDrive\Desktop\KAI\OOP_KAI_2_course\CourseProject\OOP-course2\LAB4\LabWork\obj\Debug\net9.0\LabWork.dll
+C:\Users\GreyCat\OneDrive\Desktop\KAI\OOP_KAI_2_course\CourseProject\OOP-course2\LAB4\LabWork\obj\Debug\net9.0\refint\LabWork.dll
+C:\Users\GreyCat\OneDrive\Desktop\KAI\OOP_KAI_2_course\CourseProject\OOP-course2\LAB4\LabWork\obj\Debug\net9.0\LabWork.pdb
+C:\Users\GreyCat\OneDrive\Desktop\KAI\OOP_KAI_2_course\CourseProject\OOP-course2\LAB4\LabWork\obj\Debug\net9.0\LabWork.genruntimeconfig.cache
+C:\Users\GreyCat\OneDrive\Desktop\KAI\OOP_KAI_2_course\CourseProject\OOP-course2\LAB4\LabWork\obj\Debug\net9.0\ref\LabWork.dll

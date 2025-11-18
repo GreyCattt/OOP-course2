@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\GreyCat\\OneDrive\\Desktop\\KAI\\OOP_KAI_2_course\\CourseProject\\SKLAD\\src\\StoreApp.BLL\\StoreApp.BLL.csproj": {}
+    "C:\\Users\\GreyCat\\OneDrive\\Desktop\\KAI\\OOP_KAI_2_course\\CourseProject\\OOP-course2\\SKLAD\\src\\StoreApp.BLL\\StoreApp.BLL.csproj": {}
   },
   "projects": {
-    "C:\\Users\\GreyCat\\OneDrive\\Desktop\\KAI\\OOP_KAI_2_course\\CourseProject\\SKLAD\\src\\StoreApp.BLL\\StoreApp.BLL.csproj": {
+    "C:\\Users\\GreyCat\\OneDrive\\Desktop\\KAI\\OOP_KAI_2_course\\CourseProject\\OOP-course2\\SKLAD\\src\\StoreApp.BLL\\StoreApp.BLL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\GreyCat\\OneDrive\\Desktop\\KAI\\OOP_KAI_2_course\\CourseProject\\SKLAD\\src\\StoreApp.BLL\\StoreApp.BLL.csproj",
+        "projectUniqueName": "C:\\Users\\GreyCat\\OneDrive\\Desktop\\KAI\\OOP_KAI_2_course\\CourseProject\\OOP-course2\\SKLAD\\src\\StoreApp.BLL\\StoreApp.BLL.csproj",
         "projectName": "StoreApp.BLL",
-        "projectPath": "C:\\Users\\GreyCat\\OneDrive\\Desktop\\KAI\\OOP_KAI_2_course\\CourseProject\\SKLAD\\src\\StoreApp.BLL\\StoreApp.BLL.csproj",
+        "projectPath": "C:\\Users\\GreyCat\\OneDrive\\Desktop\\KAI\\OOP_KAI_2_course\\CourseProject\\OOP-course2\\SKLAD\\src\\StoreApp.BLL\\StoreApp.BLL.csproj",
         "packagesPath": "C:\\Users\\GreyCat\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\GreyCat\\OneDrive\\Desktop\\KAI\\OOP_KAI_2_course\\CourseProject\\SKLAD\\src\\StoreApp.BLL\\obj\\",
+        "outputPath": "C:\\Users\\GreyCat\\OneDrive\\Desktop\\KAI\\OOP_KAI_2_course\\CourseProject\\OOP-course2\\SKLAD\\src\\StoreApp.BLL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\GreyCat\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -26,8 +26,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\GreyCat\\OneDrive\\Desktop\\KAI\\OOP_KAI_2_course\\CourseProject\\SKLAD\\src\\StoreApp.DAL\\StoreApp.DAL.csproj": {
-                "projectPath": "C:\\Users\\GreyCat\\OneDrive\\Desktop\\KAI\\OOP_KAI_2_course\\CourseProject\\SKLAD\\src\\StoreApp.DAL\\StoreApp.DAL.csproj"
+              "C:\\Users\\GreyCat\\OneDrive\\Desktop\\KAI\\OOP_KAI_2_course\\CourseProject\\OOP-course2\\SKLAD\\src\\StoreApp.DAL\\StoreApp.DAL.csproj": {
+                "projectPath": "C:\\Users\\GreyCat\\OneDrive\\Desktop\\KAI\\OOP_KAI_2_course\\CourseProject\\OOP-course2\\SKLAD\\src\\StoreApp.DAL\\StoreApp.DAL.csproj"
               }
             }
           }
@@ -67,14 +67,14 @@
         }
       }
     },
-    "C:\\Users\\GreyCat\\OneDrive\\Desktop\\KAI\\OOP_KAI_2_course\\CourseProject\\SKLAD\\src\\StoreApp.Core\\StoreApp.Core.csproj": {
+    "C:\\Users\\GreyCat\\OneDrive\\Desktop\\KAI\\OOP_KAI_2_course\\CourseProject\\OOP-course2\\SKLAD\\src\\StoreApp.Core\\StoreApp.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\GreyCat\\OneDrive\\Desktop\\KAI\\OOP_KAI_2_course\\CourseProject\\SKLAD\\src\\StoreApp.Core\\StoreApp.Core.csproj",
+        "projectUniqueName": "C:\\Users\\GreyCat\\OneDrive\\Desktop\\KAI\\OOP_KAI_2_course\\CourseProject\\OOP-course2\\SKLAD\\src\\StoreApp.Core\\StoreApp.Core.csproj",
         "projectName": "StoreApp.Core",
-        "projectPath": "C:\\Users\\GreyCat\\OneDrive\\Desktop\\KAI\\OOP_KAI_2_course\\CourseProject\\SKLAD\\src\\StoreApp.Core\\StoreApp.Core.csproj",
+        "projectPath": "C:\\Users\\GreyCat\\OneDrive\\Desktop\\KAI\\OOP_KAI_2_course\\CourseProject\\OOP-course2\\SKLAD\\src\\StoreApp.Core\\StoreApp.Core.csproj",
         "packagesPath": "C:\\Users\\GreyCat\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\GreyCat\\OneDrive\\Desktop\\KAI\\OOP_KAI_2_course\\CourseProject\\SKLAD\\src\\StoreApp.Core\\obj\\",
+        "outputPath": "C:\\Users\\GreyCat\\OneDrive\\Desktop\\KAI\\OOP_KAI_2_course\\CourseProject\\OOP-course2\\SKLAD\\src\\StoreApp.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\GreyCat\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -126,14 +126,14 @@
         }
       }
     },
-    "C:\\Users\\GreyCat\\OneDrive\\Desktop\\KAI\\OOP_KAI_2_course\\CourseProject\\SKLAD\\src\\StoreApp.DAL\\StoreApp.DAL.csproj": {
+    "C:\\Users\\GreyCat\\OneDrive\\Desktop\\KAI\\OOP_KAI_2_course\\CourseProject\\OOP-course2\\SKLAD\\src\\StoreApp.DAL\\StoreApp.DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\GreyCat\\OneDrive\\Desktop\\KAI\\OOP_KAI_2_course\\CourseProject\\SKLAD\\src\\StoreApp.DAL\\StoreApp.DAL.csproj",
+        "projectUniqueName": "C:\\Users\\GreyCat\\OneDrive\\Desktop\\KAI\\OOP_KAI_2_course\\CourseProject\\OOP-course2\\SKLAD\\src\\StoreApp.DAL\\StoreApp.DAL.csproj",
         "projectName": "StoreApp.DAL",
-        "projectPath": "C:\\Users\\GreyCat\\OneDrive\\Desktop\\KAI\\OOP_KAI_2_course\\CourseProject\\SKLAD\\src\\StoreApp.DAL\\StoreApp.DAL.csproj",
+        "projectPath": "C:\\Users\\GreyCat\\OneDrive\\Desktop\\KAI\\OOP_KAI_2_course\\CourseProject\\OOP-course2\\SKLAD\\src\\StoreApp.DAL\\StoreApp.DAL.csproj",
         "packagesPath": "C:\\Users\\GreyCat\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\GreyCat\\OneDrive\\Desktop\\KAI\\OOP_KAI_2_course\\CourseProject\\SKLAD\\src\\StoreApp.DAL\\obj\\",
+        "outputPath": "C:\\Users\\GreyCat\\OneDrive\\Desktop\\KAI\\OOP_KAI_2_course\\CourseProject\\OOP-course2\\SKLAD\\src\\StoreApp.DAL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\GreyCat\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -148,8 +148,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\GreyCat\\OneDrive\\Desktop\\KAI\\OOP_KAI_2_course\\CourseProject\\SKLAD\\src\\StoreApp.Core\\StoreApp.Core.csproj": {
-                "projectPath": "C:\\Users\\GreyCat\\OneDrive\\Desktop\\KAI\\OOP_KAI_2_course\\CourseProject\\SKLAD\\src\\StoreApp.Core\\StoreApp.Core.csproj"
+              "C:\\Users\\GreyCat\\OneDrive\\Desktop\\KAI\\OOP_KAI_2_course\\CourseProject\\OOP-course2\\SKLAD\\src\\StoreApp.Core\\StoreApp.Core.csproj": {
+                "projectPath": "C:\\Users\\GreyCat\\OneDrive\\Desktop\\KAI\\OOP_KAI_2_course\\CourseProject\\OOP-course2\\SKLAD\\src\\StoreApp.Core\\StoreApp.Core.csproj"
               }
             }
           }

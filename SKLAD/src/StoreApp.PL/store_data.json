@@ -24,6 +24,13 @@
           "Brand": "br2",
           "Price": 500,
           "Quantity": 5
+        },
+        {
+          "Id": 104,
+          "Name": "iPhone 15",
+          "Brand": "Apple",
+          "Price": 30000,
+          "Quantity": 5
         }
       ]
     }
@@ -47,7 +54,7 @@
     }
   ],
   "NextCategoryId": 2,
-  "NextProductId": 104,
+  "NextProductId": 105,
   "NextSupplierId": 2,
   "NextCustomerId": 2
 }
