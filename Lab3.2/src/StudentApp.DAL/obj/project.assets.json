@@ -104,11 +104,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\GreyCat\\OneDrive\\Desktop\\KAI\\OOP_KAI_2_course\\LAB3\\Lab3.2\\src\\StudentApp.DAL\\StudentApp.DAL.csproj",
+      "projectUniqueName": "C:\\Users\\GreyCat\\OneDrive\\Desktop\\KAI\\OOP_KAI_2_course\\CourseProject\\OOP-course2\\Lab3.2\\src\\StudentApp.DAL\\StudentApp.DAL.csproj",
       "projectName": "StudentApp.DAL",
-      "projectPath": "C:\\Users\\GreyCat\\OneDrive\\Desktop\\KAI\\OOP_KAI_2_course\\LAB3\\Lab3.2\\src\\StudentApp.DAL\\StudentApp.DAL.csproj",
+      "projectPath": "C:\\Users\\GreyCat\\OneDrive\\Desktop\\KAI\\OOP_KAI_2_course\\CourseProject\\OOP-course2\\Lab3.2\\src\\StudentApp.DAL\\StudentApp.DAL.csproj",
       "packagesPath": "C:\\Users\\GreyCat\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\GreyCat\\OneDrive\\Desktop\\KAI\\OOP_KAI_2_course\\LAB3\\Lab3.2\\src\\StudentApp.DAL\\obj\\",
+      "outputPath": "C:\\Users\\GreyCat\\OneDrive\\Desktop\\KAI\\OOP_KAI_2_course\\CourseProject\\OOP-course2\\Lab3.2\\src\\StudentApp.DAL\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\GreyCat\\AppData\\Roaming\\NuGet\\NuGet.Config"

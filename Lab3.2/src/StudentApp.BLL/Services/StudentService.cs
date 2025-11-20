@@ -11,7 +11,7 @@ namespace StudentApp.BLL.Services
 {
     public class StudentService : IStudentService
     {
-        private IDataProvider<T> GetProvider<T>(string providerType) where T : class
+        protected virtual IDataProvider<T> GetProvider<T>(string providerType) where T : class
         {
             switch (providerType.ToLower())
             {
@@ -95,13 +95,16 @@ namespace StudentApp.BLL.Services
             if (students.Count == 0)
                 throw new StudentLogicException("Немає жодного студента у файлі для розрахунку.");
 
-            string homeCity = "Київ";
+            const string homeCity = "Київ";
             var firstYearStudents = students.Where(s => s.Course == 1).ToList();
             if (firstYearStudents.Count == 0)
                 return "Студентів 1-го курсу не знайдено, відсоток 0%.";
+
             var fromOtherCities = firstYearStudents.Count(s => !s.CityOfArrival.Equals(homeCity, StringComparison.OrdinalIgnoreCase));
-            double percentage = (double)fromOtherCities / firstYearStudents.Count * 100;
-            return $"Відсоток студентів 1-го курсу з інших міст: {percentage:F2}% (Всього першокурсників: {firstYearStudents.Count}, з них з інших міст: {fromOtherCities})";
+            double percentage = (double)fromOtherCities / firstYearStudents.Count * 100.0;
+            var formattedPercent = percentage.ToString("F2", System.Globalization.CultureInfo.InvariantCulture);
+
+            return $"Відсоток студентів 1-го курсу з інших міст: {formattedPercent}% (Всього першокурсників: {firstYearStudents.Count}, з них з інших міст: {fromOtherCities})";
         }
 
         public void AddNewTaxiDriver(TaxiDriverDTO driverDto, string filePath, string providerType)

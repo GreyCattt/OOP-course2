@@ -6,7 +6,7 @@
         {
             Console.OutputEncoding = System.Text.Encoding.UTF8;
 
-            Console.WriteLine("--- Завдання 1: Лямбда-вираз ---");
+            Console.WriteLine("--- Завдання: Лямбда-вираз ---");
 
             CharCountDelegate countOccurrences = (text, charToFind) =>
             {
@@ -31,7 +31,7 @@
             Console.WriteLine($"Символ '{testChar}' знайдено разів: {count}");
             Console.WriteLine(new string('-', 30));
 
-            Console.WriteLine("\n--- Завдання 3: Обробка подій ---");
+            Console.WriteLine("\n--- Завдання: Обробка подій ---");
 
             MathComponent mathComp = new MathComponent();
 
@@ -58,7 +58,7 @@
         private static void Handler_OnDivision(object sender, DivisionEventArgs e)
         {
             Console.ForegroundColor = ConsoleColor.Yellow;
-            Console.WriteLine($" >> [ПОДІЯ] Відбулося цілочисельне ділення!");
+            Console.WriteLine($" >> [ПОДІЯ] Відбулося цілочисельне ділення");
             Console.WriteLine($" >> Деталі: {e.Dividend} / {e.Divisor} = {e.Result}, Остача: {e.Remainder}");
             Console.ResetColor();
         }

@@ -1,0 +1,10 @@
+[
+  {
+    "LastName": "Doe",
+    "FirstName": "John",
+    "Course": 1,
+    "StudentCardId": "ST123456",
+    "CityOfArrival": "Kyiv",
+    "PassportSeries": null
+  }
+]
