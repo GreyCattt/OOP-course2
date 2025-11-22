@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("5Lab_StudentApp.BLL.Test")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+96fc80f7bfd1912277d47e6873b179032cc86de0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d589a57535617c515980622847a0f48a6e8487dc")]
 [assembly: System.Reflection.AssemblyProductAttribute("5Lab_StudentApp.BLL.Test")]
 [assembly: System.Reflection.AssemblyTitleAttribute("5Lab_StudentApp.BLL.Test")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

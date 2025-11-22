@@ -1,0 +1,78 @@
+[
+  {
+    "Id": 1,
+    "Name": "е2",
+    "Products": [
+      {
+        "Id": 101,
+        "Name": "t6",
+        "Brand": "br4",
+        "Price": 1234,
+        "Quantity": 4
+      },
+      {
+        "Id": 104,
+        "Name": "tov2",
+        "Brand": "br1",
+        "Price": 400,
+        "Quantity": 200
+      }
+    ]
+  },
+  {
+    "Id": 2,
+    "Name": "t1",
+    "Products": []
+  },
+  {
+    "Id": 3,
+    "Name": "t2",
+    "Products": [
+      {
+        "Id": 102,
+        "Name": "t2",
+        "Brand": "br1",
+        "Price": 500,
+        "Quantity": 4
+      },
+      {
+        "Id": 105,
+        "Name": "tov3",
+        "Brand": "br1",
+        "Price": 3000,
+        "Quantity": 40
+      }
+    ]
+  },
+  {
+    "Id": 4,
+    "Name": "t3",
+    "Products": []
+  },
+  {
+    "Id": 5,
+    "Name": "cat1",
+    "Products": [
+      {
+        "Id": 103,
+        "Name": "tov1",
+        "Brand": "br2",
+        "Price": 500,
+        "Quantity": 3
+      }
+    ]
+  },
+  {
+    "Id": 6,
+    "Name": "test1",
+    "Products": [
+      {
+        "Id": 106,
+        "Name": "tov4",
+        "Brand": "br4",
+        "Price": 0,
+        "Quantity": 5
+      }
+    ]
+  }
+]

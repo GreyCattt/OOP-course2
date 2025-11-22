@@ -18,7 +18,7 @@ namespace StoreApp.BLL.Tests
 
         public void SaveContext(DataContext context)
         {
-   
+            Context = context;
         }
     }
 }

@@ -1,0 +1,23 @@
+[
+  {
+    "Id": 1,
+    "CompanyName": "comp1",
+    "ContactFirstName": "Ivan",
+    "ContactLastName": "Lviv",
+    "Phone": "12345678"
+  },
+  {
+    "Id": 2,
+    "CompanyName": "comp2",
+    "ContactFirstName": "Igor",
+    "ContactLastName": "Silver",
+    "Phone": "12345789"
+  },
+  {
+    "Id": 3,
+    "CompanyName": "comp3",
+    "ContactFirstName": "Post1",
+    "ContactLastName": "Lastname1",
+    "Phone": "98765432"
+  }
+]

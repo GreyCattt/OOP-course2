@@ -1,0 +1,23 @@
+[
+  {
+    "Id": 1,
+    "FirstName": "Oleg",
+    "LastName": "Raen",
+    "Email": "olegrean@kkk.com",
+    "Phone": "12345678"
+  },
+  {
+    "Id": 2,
+    "FirstName": "Oleg",
+    "LastName": "Lastname2",
+    "Email": "rgsdgdf23456y",
+    "Phone": "676543234567"
+  },
+  {
+    "Id": 3,
+    "FirstName": "Rok",
+    "LastName": "Lastname",
+    "Email": "rgdf34567",
+    "Phone": "234567"
+  }
+]

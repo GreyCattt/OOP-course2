@@ -31,7 +31,7 @@ namespace StoreApp.PL
             {
                 ShowMenu();
                 Console.Write("Ваш вибір: ");
-                string choice = Console.ReadLine();
+                string choice = Console.ReadLine() ?? "";
 
                 try
                 {
@@ -105,6 +105,8 @@ namespace StoreApp.PL
                 case "18": DisplayAllStoreStructure(); return false;
                 case "19": HandleSearchProducts(); return false;
                 case "20": HandleSearchCustomers(); return false;
+                case "21": HandleViewCustomerById(); return false;
+                case "22": HandleViewAllCustomers(); return false;
 
                 case "0":
                     Console.WriteLine("До побачення!");
@@ -144,6 +146,8 @@ namespace StoreApp.PL
             Console.WriteLine("║ 18. Показати все (структура)          ║");
             Console.WriteLine("║ 19. Пошук товару (за назвою/брендом)  ║");
             Console.WriteLine("║ 20. Пошук замовника (за ім'ям/email)  ║");
+            Console.WriteLine("║ 21. Переглянути замовника за ID       ║");
+            Console.WriteLine("║ 22. Переглянути всіх замовників       ║");
             Console.WriteLine("╟───────────────────────────────────────╢");
             Console.WriteLine("║ 0. Вийти (та зберегти)                ║");
             Console.WriteLine("╚═══════════════════════════════════════╝");
@@ -153,7 +157,7 @@ namespace StoreApp.PL
             while (true)
             {
                 Console.Write(prompt);
-                string input = Console.ReadLine();
+                string input = Console.ReadLine() ?? "";
                 if (!string.IsNullOrWhiteSpace(input))
                 {
                     return input;
@@ -167,7 +171,7 @@ namespace StoreApp.PL
             while (true)
             {
                 Console.Write(prompt);
-                if (int.TryParse(Console.ReadLine(), out int result))
+                if (int.TryParse(Console.ReadLine() ?? "", out int result))
                 {
                     return result;
                 }
@@ -193,7 +197,7 @@ namespace StoreApp.PL
              while (true)
             {
                 Console.Write(prompt);
-                if (decimal.TryParse(Console.ReadLine(), out decimal result) && result >= min)
+                if (decimal.TryParse(Console.ReadLine() ?? "", out decimal result) && result >= min)
                 {
                     return result;
                 }
@@ -316,7 +320,7 @@ namespace StoreApp.PL
             Console.WriteLine("4. За ціною (від дорожчого)");
             Console.WriteLine("Будь-яка інша клавіша - без сортування");
             Console.Write("Ваш вибір: ");
-            string sortChoice = Console.ReadLine();
+            string sortChoice = Console.ReadLine() ?? "";
             
             string sortBy = "";
             switch (sortChoice)
@@ -392,7 +396,7 @@ namespace StoreApp.PL
             Console.WriteLine("2. За прізвищем (А-Я)");
             Console.WriteLine("Будь-яка інша клавіша - без сортування");
             Console.Write("Ваш вибір: ");
-            string sortChoice = Console.ReadLine();
+            string sortChoice = Console.ReadLine() ?? "";
 
             string sortBy = "";
             if (sortChoice == "1") sortBy = "firstname";
@@ -459,6 +463,31 @@ namespace StoreApp.PL
                 Console.WriteLine(customer);
             }
             Console.WriteLine("---------------------------------------");
+        }
+
+        private static void HandleViewCustomerById()
+        {
+            int id = ReadValidInt("Введіть ID клієнта: ");
+            var customer = _storeService.GetCustomerById(id);
+            Console.WriteLine("\n--- Інформація про клієнта ---");
+            Console.WriteLine(customer);
+            Console.WriteLine("-------------------------------");
+        }
+
+        private static void HandleViewAllCustomers()
+        {
+            var customers = _storeService.GetAllCustomers();
+            Console.WriteLine("\n--- Список всіх клієнтів ---");
+            if (!customers.Any())
+            {
+                Console.WriteLine("Список клієнтів порожній.");
+                return;
+            }
+            foreach (var c in customers)
+            {
+                Console.WriteLine(c);
+            }
+            Console.WriteLine("-------------------------------");
         }
         
         private static void DisplayAllStoreStructure()

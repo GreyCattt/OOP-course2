@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2OSUIk7iPZs=",
+  "dgSpecHash": "0o4PzaoJjD4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\GreyCat\\OneDrive\\Desktop\\KAI\\OOP_KAI_2_course\\CourseProject\\SKLAD\\src\\StoreApp.BLL.Tests\\StoreApp.BLL.Tests.csproj",
+  "projectFilePath": "C:\\Users\\GreyCat\\OneDrive\\Desktop\\KAI\\OOP_KAI_2_course\\CourseProject\\OOP-course2\\SKLAD\\src\\StoreApp.BLL.Tests\\StoreApp.BLL.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\GreyCat\\.nuget\\packages\\microsoft.applicationinsights\\2.22.0\\microsoft.applicationinsights.2.22.0.nupkg.sha512",
     "C:\\Users\\GreyCat\\.nuget\\packages\\microsoft.codecoverage\\17.12.0\\microsoft.codecoverage.17.12.0.nupkg.sha512",

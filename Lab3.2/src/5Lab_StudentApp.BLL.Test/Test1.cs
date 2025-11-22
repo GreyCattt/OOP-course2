@@ -1,13 +1,9 @@
-﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using Moq;
-using StudentApp.DAL;
+﻿using Moq;
 using StudentApp.DAL.Entities;
 using StudentApp.DAL.Providers;
 using StudentApp.BLL.DTO;
 using StudentApp.BLL.Services;
 using StudentApp.BLL.Infrastructure;
-using System.Collections.Generic;
-using System.Linq;
 
 namespace _5Lab_StudentApp.BLL.Test;
 
@@ -75,6 +71,45 @@ public sealed class StudentServiceTests
 
         Assert.ThrowsException<ValidationException>(() => _studentService!.AddNewStudent(studentDto, filePath, providerType));
     }
+
+        [TestMethod]
+        public void AddNewStudent_Throws_When_LastNameEmpty()
+        {
+            var studentDto = new StudentDTO { FirstName = "John", LastName = "", Course = 1, StudentCardId = "ID2", CityOfArrival = "Kyiv" };
+            var filePath = "test.json";
+            var providerType = "json";
+
+            _mockProvider!.Setup(p => p.Read(filePath)).Returns(new List<Student>());
+
+            Assert.ThrowsException<ValidationException>(() => _studentService!.AddNewStudent(studentDto, filePath, providerType));
+        }
+
+        [TestMethod]
+        public void AddNewStudent_Throws_When_StudentCardIdEmpty()
+        {
+            var studentDto = new StudentDTO { FirstName = "John", LastName = "Doe", Course = 1, StudentCardId = "", CityOfArrival = "Kyiv" };
+            var filePath = "test.json";
+            var providerType = "json";
+
+            _mockProvider!.Setup(p => p.Read(filePath)).Returns(new List<Student>());
+
+            Assert.ThrowsException<ValidationException>(() => _studentService!.AddNewStudent(studentDto, filePath, providerType));
+        }
+
+        [TestMethod]
+        public void AddNewStudent_Throws_When_CourseOutOfRange()
+        {
+            var filePath = "test.json";
+            var providerType = "json";
+
+            var studentDtoLow = new StudentDTO { FirstName = "John", LastName = "Doe", Course = 0, StudentCardId = "ID3", CityOfArrival = "Kyiv" };
+            var studentDtoHigh = new StudentDTO { FirstName = "John", LastName = "Doe", Course = 7, StudentCardId = "ID4", CityOfArrival = "Kyiv" };
+
+            _mockProvider!.Setup(p => p.Read(filePath)).Returns(new List<Student>());
+
+            Assert.ThrowsException<ValidationException>(() => _studentService!.AddNewStudent(studentDtoLow, filePath, providerType));
+            Assert.ThrowsException<ValidationException>(() => _studentService!.AddNewStudent(studentDtoHigh, filePath, providerType));
+        }
 
     [TestMethod]
     public void AddNewStudent_Throws_When_DuplicateStudentCard()
